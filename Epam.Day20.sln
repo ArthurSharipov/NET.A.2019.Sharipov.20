@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{258DEDAC-A72A-4E2B-BDD4-164BD1D6620C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{67E33C6D-88DD-4449-B800-1722164B8E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL.Interface", "BLL.Interface\BLL.Interface.csproj", "{FBB32279-BAEB-498F-9C5D-23C9DFB3222D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258DEDAC-A72A-4E2B-BDD4-164BD1D6620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258DEDAC-A72A-4E2B-BDD4-164BD1D6620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258DEDAC-A72A-4E2B-BDD4-164BD1D6620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258DEDAC-A72A-4E2B-BDD4-164BD1D6620C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E33C6D-88DD-4449-B800-1722164B8E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E33C6D-88DD-4449-B800-1722164B8E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E33C6D-88DD-4449-B800-1722164B8E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E33C6D-88DD-4449-B800-1722164B8E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB32279-BAEB-498F-9C5D-23C9DFB3222D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB32279-BAEB-498F-9C5D-23C9DFB3222D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB32279-BAEB-498F-9C5D-23C9DFB3222D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB32279-BAEB-498F-9C5D-23C9DFB3222D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D74D77C-CE77-44C2-BA38-A2A0FBD1718A}
+	EndGlobalSection
+EndGlobal
